@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avinash Kumar](https://github.com/aviavinashkr)
+ - Place: India
+ - Bio: | B.Tech Information Technology Student | Android App Development rookie |
+ - GitHub: [Avinash Kumar](https://github.com/aviavinashkr)
